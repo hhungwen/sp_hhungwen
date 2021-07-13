@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\nProject Proposal Background\nTaiwan’s house prices continue to rise since many years ago, especially in the capital city - Taipei. Taipei is a city where has more job opportunities than other cities in Taiwan. Buying a home remains unaffordable for most young Taiwanese. An average household in Taipei needs to pay two-thirds of its income for a mortgage loan. Most of the young adult who works in Taipei would buy/rent a house in neighbor cities of Taipei, and commute by car/bus/ train for 30 min to 1 hour every workday. It causes the house price in neighboring cities to continually increase.\nKeelung, the city where I currently live, is one of the neighboring cities of Taipei but also the farthest one compares to other neighboring cities. I would like to analyze the house price changes in Keelung during these five years.\nGoals\nKeelung House price analysis\nOverall Price increase?\nCounty Average house price differences?\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-07-13T21:38:37+08:00",
+    "last_modified": "2021-07-13T21:51:18+08:00",
     "input_file": "project-background.utf8.md"
   },
   {
@@ -45,9 +45,9 @@
     ],
     "date": "2021-07-13",
     "categories": [],
-    "contents": "\n案件登記欄位標題\n基本概念: 平方公尺 X 0.3025= 坪\n交易標的\n雙方當事人訂立合約所要規範的內容\n土地區地段位置\n土地移轉總面積\n使用分區與編定\n都市土地: 實施都市計畫範圍內之土地\n非都市土地: 都市計畫範圍外之土地/農業區/工業區\n移轉層次 交易物件的樓層數\n總樓層數\n建物總樓層數\n建物型態 公寓(5樓含以下無電梯)\n住宅大樓(11層含以上有電梯)\n華廈(10層含以下有電梯)\n透天厝\n套房(1房1廳1衛)\n建物移轉總面積\n主建物面積和附屬建物面積的總和\n總價\n交易總金額 建物價格和車位價格的總和\n單價\n單價是以每平方公尺計算\n房屋單價怎麼算？\n以建物移轉總面積計算\n(總價-車位價)/(總面積-車位面積)=建坪單價\n(3,000-200)/(80-10)=40萬元/坪\n以不計入共同使用部分面積計算\n(總價-車位價)/(總面積-共同使用部分面積-車位面積)=單價\n(3,000-200)/(80-10-10)=46.67萬元/坪\n以不計入附屬建物及共同使用部分計算\n(總價-車位價)/(總面積-附屬建物-共同使用部分面積-車位面積)=單價\n(3,000-200)/(80-5-5-10-10)=56萬元/坪\n不動產買賣登記哪裡看？\n591實價登錄https://market.591.com.tw\n資料詳細\n不好搜尋地址 輸入社區比較好搜尋\nLEJU樂居https://www.leju.com.tw\n介面簡單易懂\n輸入地段就好搜尋\n資料筆數有限（無加入會員）\n台灣房屋https://www.twhg.com.tw/price_trend.php\n各區域漲跌幅列表\n資料太多不好搜尋\n內政部交易實價查詢https://lvr.land.moi.gov.tw/login.action\n頁面複雜不好操作\n\n\n\n",
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\nProject Proposal Background\nTaiwan’s house prices continue to rise since many years ago, especially in the capital city - Taipei. Taipei is a city where has more job opportunities than other cities in Taiwan. Buying a home remains unaffordable for most young Taiwanese. An average household in Taipei needs to pay two-thirds of its income for a mortgage loan. Most of the young adult who works in Taipei would buy/rent a house in neighbor cities of Taipei, and commute by car/bus/ train for 30 min to 1 hour every workday. It causes the house price in neighboring cities to continually increase.\nKeelung, the city where I currently live, is one of the neighboring cities of Taipei but also the farthest one compares to other neighboring cities. I would like to analyze the house price changes in Keelung during these five years.\nGoals\nKeelung House price analysis\nOverall Price increase?\nCounty Average house price differences?\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-07-13T21:45:20+08:00",
+    "last_modified": "2021-07-13T21:51:11+08:00",
     "input_file": "how-to-read-trade-record.utf8.md"
   }
 ]
