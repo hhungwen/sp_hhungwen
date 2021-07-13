@@ -1,0 +1,12 @@
+name: "sp_hhungwen_blog"
+title: "Hui-Chia Senior Project"
+description: |
+  Hui-Chia Senior Project
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
