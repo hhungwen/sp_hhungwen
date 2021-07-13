@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Hui-Chia Senior Project",
+    "description": "Welcome to our new blog, Hui-Chia Senior Project. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Hui-Chia HungWen",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-07-13",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-07-13T21:32:31+08:00",
+    "input_file": {}
+  }
+]

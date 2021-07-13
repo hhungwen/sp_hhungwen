@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hui-Chia Senior Project</title>
+    <link>https://hhungwen.github.io/sp_hhungwen/</link>
+    <atom:link href="https://hhungwen.github.io/sp_hhungwen/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Hui-Chia Senior Project
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Hui-Chia Senior Project</title>
+      <dc:creator>Hui-Chia HungWen</dc:creator>
+      <link>https://hhungwen.github.io/sp_hhungwen/posts/welcome</link>
+      <description>Welcome to our new blog, Hui-Chia Senior Project. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://hhungwen.github.io/sp_hhungwen/posts/welcome</guid>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
