@@ -30,6 +30,7 @@
     "categories": [],
     "contents": "\nProject Proposal Background\nTaiwan’s house prices continue to rise since many years ago, especially in the capital city - Taipei. Taipei is a city where has more job opportunities than other cities in Taiwan. Buying a home remains unaffordable for most young Taiwanese. An average household in Taipei needs to pay two-thirds of its income for a mortgage loan. Most of the young adult who works in Taipei would buy/rent a house in neighbor cities of Taipei, and commute by car/bus/ train for 30 min to 1 hour every workday. It causes the house price in neighboring cities to continually increase.\nKeelung, the city where I currently live, is one of the neighboring cities of Taipei but also the farthest one compares to other neighboring cities. I would like to analyze the house price changes in Keelung during these five years.\nGoals\nKeelung House price analysis\nOverall Price increase?\nCounty Average house price differences?\n\n\n\n",
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2021-07-13T21:51:18+08:00",
     "input_file": "project-background.utf8.md"
   },
@@ -49,5 +50,9 @@
     "preview": {},
     "last_modified": "2021-07-13T21:51:11+08:00",
     "input_file": "how-to-read-trade-record.utf8.md"
+=======
+    "last_modified": "2021-07-13T21:47:07+08:00",
+    "input_file": "project-background.utf8.md"
+>>>>>>> 02cf4a1d464abfe7f20329141dda7dca88c327b3
   }
 ]
